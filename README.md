@@ -9,4 +9,4 @@ The following video shows our HI2-ADAM model's generated adaptive SIA behavior v
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8b1LgkOZPU0/0.jpg)](https://www.youtube.com/watch?v=8b1LgkOZPU0)
 
-We will publish our code soon.
+The code will be published soon.
